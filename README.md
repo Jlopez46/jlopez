@@ -2,7 +2,7 @@
 <html>
   <head>
     <title> My first web page!/title>
-  <head/>
+  </head>
 <body>
   
  <h1>Roses are red </h1>
